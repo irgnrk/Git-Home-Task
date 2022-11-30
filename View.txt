@@ -1,5 +1,4 @@
 //View 
-
 let view = UiView()
-veiw.bgcolor = .red
-
+veiw.bgcolor = .white
+view.font = .normal  
