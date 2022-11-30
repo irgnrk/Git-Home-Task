@@ -1,0 +1,6 @@
+// new View for git
+
+let view = UiView()
+veiw.bgcolor = .red
+
+// comments
