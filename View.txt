@@ -1,9 +1,4 @@
-// new View for git
-
+//View 
 let view = UiView()
-veiw.bgcolor = .white // changing color
-view.font = .normal  // adding font
-
-
-// comments
-bla bla bla
+veiw.bgcolor = .white
+view.font = .normal  
